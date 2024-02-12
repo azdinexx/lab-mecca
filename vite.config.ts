@@ -9,6 +9,7 @@ const manifestForPlugIn = {
     name: 'Mecca Survey',
     short_name: 'Mecca',
     description: 'The Mecca Survey App',
+
     icons: [
       {
         src: '/android-chrome-192x192.png',
@@ -30,7 +31,7 @@ const manifestForPlugIn = {
       },
       {
         src: '/maskable_icon.png',
-        sizes: '512x512',
+        sizes: '500x500',
         type: 'image/png',
         purpose: 'any maskable',
       },
